@@ -1,2 +1,2 @@
-# colombe-tolokin-colombe-tolokin.github.io
+# colombe-tolokin.github.io
 DSCI_Lab2_Website
